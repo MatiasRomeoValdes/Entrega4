@@ -1,0 +1,1 @@
+Se realiza proyecto con React y NodeJS para hacer formulario de reservas a través de Google's Firebase. Se utiliza UseState y Async para realización de formulario.
